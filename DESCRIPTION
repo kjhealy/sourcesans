@@ -1,0 +1,10 @@
+Package: sourcesans
+Title: Provide a Source Sans theme for ggplot
+Version: 0.0.0.9000
+Author: Kieran Healy
+Description: Source Sans theme for ggplot.
+Depends: R (>= 3.3.2)
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
